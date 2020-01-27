@@ -1,0 +1,9 @@
+<section class="subscribe">
+  <div class="inner">
+    <h2 class="subscribe-title">{{ .Site.Data.subscribe.title }}</h2>
+    <p class="subscribe-text">
+      {{ .Site.Data.subscribe.content | safeHTML }}
+    </p>
+    {{ partial "subscribe_form.html" . }}
+  </div><!-- inner -->
+</section><!-- .subscribe -->

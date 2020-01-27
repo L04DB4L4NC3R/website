@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+    <head>    
+        
+        <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="google" content="notranslate" />
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i%7CPT+Serif:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "assets/css/main.css" . | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10)).Permalink }}">
+        {{ if eq .Params.layout "post" }} 
+        {{ if .Params.canonical_url }}
+        <link rel="canonical" href="{{ .Params.canonical_url }}"/>
+        {{ end }}
+        {{ end }}
+        
+    </head>
+    <body>
+        
+        <div id="page" class="site layout-{{ .Site.Params.layout_style }} palette-{{ .Site.Params.palette }}">
+        
+            {{ partial "header.html" . }}
+        
+            <div id="content" class="site-content">
+              <main id="main" class="site-main inner">
+        
+                {{ block "content" . }}{{ end }}
+        
+              </main><!-- .site-main -->
+            </div><!-- .site-content -->
+        
+            {{ if .Site.Data.subscribe.enabled }}
+              {{ partial "subscribe.html" . }}
+            {{ end }}
+        
+            {{ partial "footer.html" . }}
+        
+          </div><!-- .site -->
+        <!-- Scripts -->
+        <script src="{{ "assets/js/plugins.js" | relURL }}"></script>
+        <script src="{{ "assets/js/main.js" | relURL }}"></script>
+    </body> 
+</html>

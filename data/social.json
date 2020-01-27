@@ -1,0 +1,22 @@
+{
+    "links": [
+        {
+            "type": "twitter",
+            "title": "Twitter",
+            "icon": "fa-twitter",
+            "url": "https://twitter.com/angadsharma1016"
+        },
+        {
+            "type": "github",
+            "title": "GitHub",
+            "icon": "fa-github",
+            "url": "https://github.com/L04DB4L4NC3R"
+        },
+        {
+            "type": "devto",
+            "title": "DEV",
+            "icon": "fa-dev",
+            "url": "https://dev.to/l04db4l4nc3r"
+        }
+    ]
+}
