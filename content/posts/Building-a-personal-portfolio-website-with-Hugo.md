@@ -1,7 +1,7 @@
 ---
 title: Building a personal portfolio website with Hugo
 date: '2019-07-26T16:25:51.363Z'
-thumb_img_path: images/Building-a-personal-portfolio-website-with-Hugo/0*yZCwvYCNdJQKmRUd.jpg
+thumb_img_path: https://miro.medium.com/max/4320/0*yZCwvYCNdJQKmRUd
 excerpt: Introduction
 layout: post
 ---

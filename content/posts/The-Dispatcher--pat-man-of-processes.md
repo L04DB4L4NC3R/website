@@ -1,7 +1,7 @@
 ---
 title: 'The Dispatcher: pat-man of processes'
 date: '2019-05-05T10:24:07.618Z'
-thumb_img_path: images/The-Dispatcher--pat-man-of-processes/0*q4BAxzKfOSzua7L-.jpg
+thumb_img_path: https://miro.medium.com/max/4320/0*q4BAxzKfOSzua7L-
 excerpt: Introduction
 layout: post
 ---

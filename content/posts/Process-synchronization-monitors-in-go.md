@@ -1,7 +1,7 @@
 ---
 title: Process synchronization monitors in go
 date: '2019-05-03T05:59:04.681Z'
-thumb_img_path: images/Process-synchronization-monitors-in-go/1*TBwzZzVwY-uKttHPkWSLTA.png
+thumb_img_path: https://miro.medium.com/max/1400/1*TBwzZzVwY-uKttHPkWSLTA.png
 excerpt: Introduction
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: Mutually exclusive terminal sessions on the web
 date: '2019-04-30T11:15:58.382Z'
-thumb_img_path: images/Mutually-exclusive-terminal-sessions-on-the-web/0*RD_245UoYjcLm1P3.png
+thumb_img_path: https://miro.medium.com/max/1400/0*RD_245UoYjcLm1P3.png
 excerpt: Introduction
 layout: post
 ---
