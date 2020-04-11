@@ -1,7 +1,7 @@
 ---
 title: Large Document Storage in MongoDB
 date: '2019-09-06T17:39:49.221Z'
-thumb_img_path: images/Large-Document-Storage-in-MongoDB/0*tBDOH0Bi9lRi1MUP.jpg
+thumb_img_path: https://miro.medium.com/max/4320/0*tBDOH0Bi9lRi1MUP
 excerpt: A brief intro to GridFS
 layout: post
 ---

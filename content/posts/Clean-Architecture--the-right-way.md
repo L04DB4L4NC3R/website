@@ -1,7 +1,7 @@
 ---
 title: 'Clean Architecture, the right way'
 date: '2020-01-12T07:31:35.937Z'
-thumb_img_path: images/Clean-Architecture--the-right-way/0*ou5WuCuRbI-bcYA0.jpg
+thumb_img_path: https://miro.medium.com/max/2880/0*ou5WuCuRbI-bcYA0
 excerpt: 'A practical guide to Clean Architecture, with a personal touch.'
 layout: post
 ---

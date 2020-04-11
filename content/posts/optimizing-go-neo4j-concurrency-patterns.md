@@ -1,7 +1,7 @@
 ---
 title: optimizing go-neo4j concurrency patterns
 date: '2019-04-30T10:22:04.706Z'
-thumb_img_path: images/optimizing-go-neo4j-concurrency-patterns/1*2ZcmyheKUHMsg-tnUDsTwQ.png
+thumb_img_path: https://miro.medium.com/max/1400/1*2ZcmyheKUHMsg-tnUDsTwQ.png
 excerpt: Introduction
 layout: post
 ---

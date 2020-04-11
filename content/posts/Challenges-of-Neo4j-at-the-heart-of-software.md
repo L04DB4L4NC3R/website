@@ -1,7 +1,7 @@
 ---
 title: Challenges of Neo4j at the heart of software
 date: '2019-08-30T20:32:31.864Z'
-thumb_img_path: images/Challenges-of-Neo4j-at-the-heart-of-software/0*GgqQ5x90-Br5JnMC.jpg
+thumb_img_path: https://miro.medium.com/max/4320/0*GgqQ5x90-Br5JnMC
 excerpt: Introduction
 layout: post
 ---
