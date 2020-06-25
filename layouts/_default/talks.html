@@ -1,12 +1,7 @@
 {{ define "content" }}
 
-  {{ range $section := .Params.sections }}
-    {{ $include_dict := dict "section" $section "Site" $.Site }}
-    {{ partial $section.component $include_dict }}
-  {{ end }}
-
   <div class="post-feed">
-    {{ $display_posts := (("/talks").Pages).ByDate.Reverse }}
+    {{ $display_posts := ((.Site.GetPage "/talks" ).Pages).ByDate.Reverse }}
     {{ range $post := $display_posts }}
     <article class="post post-card">
       <div class="post-card-inside">

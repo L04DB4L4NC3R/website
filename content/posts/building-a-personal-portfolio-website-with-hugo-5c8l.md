@@ -5,7 +5,7 @@ excerpt: Introduction
 thumb_img_path: >-
   https://res.cloudinary.com/practicaldev/image/fetch/s--5wnj-Kai--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--MBn-fGV3--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/uzcdwdfvso6zl4oxtg41.jpg
 comments_count: 0
-positive_reactions_count: 12
+positive_reactions_count: 13
 tags:
   - go
   - hugo

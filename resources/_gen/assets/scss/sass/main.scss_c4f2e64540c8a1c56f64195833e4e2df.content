@@ -1,5 +1,5 @@
-@import url(fontawesome.min.css);
-@import url(brands.min.css);
+@import "fontawesome.min.css";
+@import "brands.min.css";
 /**
  * Reset
  * normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css
@@ -186,7 +186,6 @@ html {
   @media only screen and (max-width: 600px) {
     html {
       font-size: 100%; } }
-
 body {
   background: #fff;
   color: #5e5e5e;
@@ -263,7 +262,7 @@ code {
   padding: 0 3px; }
 
 pre {
-  border: 1px solid #dedddd;
+  border: 1px solid #dedede;
   border-radius: 3px;
   color: #1e1e1e;
   font-size: 0.88889rem;
@@ -273,7 +272,7 @@ pre {
   position: relative;
   white-space: pre; }
   pre:before {
-    border-color: #dedddd;
+    border-color: #dedede;
     border-style: solid;
     border-width: 0 0 1px 1px;
     color: inherit;
@@ -287,7 +286,7 @@ pre {
     padding: 0; }
 
 blockquote {
-  border-top: 3px solid #dedddd;
+  border-top: 3px solid #dedede;
   color: #1e1e1e;
   font-family: "PT Serif", serif;
   font-size: 1.33333rem;
@@ -342,7 +341,7 @@ li > ol {
 
 hr {
   border: 0;
-  border-bottom: 1px solid #dedddd;
+  border-bottom: 1px solid #dedede;
   margin: 1.66667em 0; }
 
 table {
@@ -360,7 +359,7 @@ caption {
 
 th,
 td {
-  border-bottom: 1px solid #dedddd;
+  border-bottom: 1px solid #dedede;
   padding: 0.5em 5px; }
 
 th {
@@ -390,7 +389,7 @@ input[type="url"],
 select,
 textarea {
   background: #fff;
-  border: 1px solid #dedddd;
+  border: 1px solid #dedede;
   border-radius: 3px;
   box-shadow: none;
   box-sizing: border-box;
@@ -636,7 +635,6 @@ img {
     .site-content {
       padding-bottom: 3.33333em;
       padding-top: 3.33333em; } }
-
 .intro,
 .post-full .post-header,
 .post-full .post-subtitle,
@@ -653,7 +651,7 @@ img {
 .site-header {
   background: #fff;
   border-top: 5px solid #3cb464;
-  border-bottom: 1px solid #dedddd;
+  border-bottom: 1px solid #dedede;
   padding-bottom: 1.33333em;
   padding-top: 1.33333em; }
 
@@ -749,11 +747,11 @@ img {
   .menu {
     padding: 5rem 4vw 3.33333rem; }
   .menu-item {
-    border-bottom: 1px solid #dedddd;
+    border-bottom: 1px solid #dedede;
     display: block;
     padding: 0; }
     .menu-item:first-child {
-      border-top: 1px solid #dedddd; }
+      border-top: 1px solid #dedede; }
     .menu-item a {
       display: block;
       padding: 0.83333rem 0; }
@@ -829,7 +827,7 @@ img {
     font-size: 16px; }
 
 .post-card-inside {
-  border: 1px solid #dedddd;
+  border: 1px solid #dedede;
   border-radius: 3px;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -923,7 +921,6 @@ img {
   @media only screen and (min-width: 801px) {
     .intro {
       margin-bottom: 3.33333rem; } }
-
 .intro-text {
   color: #1e1e1e;
   font-family: "PT Serif", serif;
@@ -976,7 +973,7 @@ img {
  */
 .subscribe {
   background: #f7f7f7;
-  border-bottom: 1px solid #dedddd;
+  border-bottom: 1px solid #dedede;
   padding-bottom: 2.5em;
   padding-top: 2.5em;
   text-align: center; }
@@ -1017,7 +1014,6 @@ img {
         right: 9px;
         top: 9px;
         width: 130px; } }
-
 /**
  * Site Footer
  * ----------------------------------------------------------------------------

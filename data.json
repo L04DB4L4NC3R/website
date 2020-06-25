@@ -1,1 +1,17 @@
-{"author":{"name":"Angad Sharma","avatar":"https://res.cloudinary.com/practicaldev/image/fetch/s--XOk2jf_h--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/197603/a4320666-6350-4843-b37e-07bcfa168f55.png"},"social":{"devto":{"username":"l04db4l4nc3r"},"twitter":{"username":"angadsharma1016"},"github":{"username":"L04DB4L4NC3R"}}}
+{
+    "author": {
+        "name": "Angad Sharma",
+        "avatar": "https://res.cloudinary.com/practicaldev/image/fetch/s--XOk2jf_h--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/197603/a4320666-6350-4843-b37e-07bcfa168f55.png"
+    },
+    "social": {
+        "devto": {
+            "username": "l04db4l4nc3r"
+        },
+        "twitter": {
+            "username": "angadsharma1016"
+        },
+        "github": {
+            "username": "L04DB4L4NC3R"
+        }
+    }
+}
