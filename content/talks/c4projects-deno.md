@@ -1,6 +1,6 @@
 ---
 title: Global Developers' Summit | Enter the Denoland
-date: '2020-05-29 18:00'
+date: '2020-05-29T16:18:00.766Z'
 excerpt: ''
 thumb_img_path: >-
   https://user-images.githubusercontent.com/30529572/85772533-7645d500-b70c-11ea-9e48-e9b998ebfba4.png
