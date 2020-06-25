@@ -6,7 +6,7 @@
   {{ end }}
 
   <div class="post-feed">
-    {{ $display_posts := ((.Site.GetPage "section" "/talks").Pages).ByDate.Reverse }}
+    {{ $display_posts := (("/talks").Pages).ByDate.Reverse }}
     {{ range $post := $display_posts }}
     <article class="post post-card">
       <div class="post-card-inside">
