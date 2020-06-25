@@ -1,9 +1,9 @@
 ---
 title: Talks
 sections:
-  - section_id: intro
+  - section_id: talks
     component: talks.html
-    type: intro
+    type: talks
     title: Talks
     content: View my talks, webinars and online video content
 layout: talks
