@@ -2,7 +2,7 @@
 title: Talks
 sections:
   - section_id: talks
-    component: talks.html
+    component: home.html
     type: talks
     title: Talks
     content: View my talks, webinars and online video content
