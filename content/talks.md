@@ -1,7 +1,7 @@
 ---
 title: Posts
 sections:
-  - section_id: talks
+  - section_id: intro
     component: talks.html
     type: talks
     title: Talks
