@@ -1,12 +1,12 @@
 ---
-title: Posts
+title: Talks
 sections:
-  - section_id: intro
-    component: intro.html
+  - section_id: talks
+    component: talks.html
     type: intro
-    title: Intro
+    title: Talks
     content: Backend Developer and DevOps SysAdmin
-layout: home
+layout: talks
 menu:
   main:
     weight: 1
