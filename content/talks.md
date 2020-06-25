@@ -6,7 +6,7 @@ sections:
     type: talks
     title: Talks
     content: Some of my talks, webinars and online video content
-layout: home
+layout: talks
 menu:
   main:
     weight: 1
