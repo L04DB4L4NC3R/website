@@ -3,7 +3,7 @@ title: Insight | An introduction to various technical domains
 date: '2019-08-07T16:18:00.766Z'
 excerpt: ''
 thumb_img_path: >-
-  https://user-images.githubusercontent.com/30529572/85805581-4282a380-b73c-11ea-9d65-89d67f1c2971.png
+  https://user-images.githubusercontent.com/30529572/85806435-89719880-b73e-11ea-8655-2235bb41011b.png
 tags:
   - deno
 layout: post
@@ -20,7 +20,7 @@ Like and Follow the Codechef-VIT page for more information.
 
 ![a2](https://user-images.githubusercontent.com/30529572/85806434-88d90200-b73e-11ea-919c-5c792e5c83cd.png)
 
-![a3](https://user-images.githubusercontent.com/30529572/85806435-89719880-b73e-11ea-8655-2235bb41011b.png)
+![a3](https://user-images.githubusercontent.com/30529572/85805581-4282a380-b73c-11ea-9d65-89d67f1c2971.png)
 
 ![a4](https://user-images.githubusercontent.com/30529572/85806439-8aa2c580-b73e-11ea-8c87-8bb202bbac95.png)
 
