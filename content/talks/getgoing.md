@@ -1,5 +1,5 @@
 ---
-title: GetGoing: Introduction to Go | Udemy Course
+title: GetGoing | Introduction to Go | Udemy Course
 date: '2019-08-27T16:18:00.766Z'
 excerpt: ''
 thumb_img_path: >-
