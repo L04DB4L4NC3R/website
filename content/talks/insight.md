@@ -1,6 +1,6 @@
 ---
 title: Insight | An introduction to various technical domains
-date: '2018-08-07T16:18:00.766Z'
+date: '2019-08-07T16:18:00.766Z'
 excerpt: ''
 thumb_img_path: >-
   https://user-images.githubusercontent.com/30529572/85805581-4282a380-b73c-11ea-9d65-89d67f1c2971.png
@@ -15,3 +15,12 @@ Join us at TT Gallery1 on the 7th of August from 6 to 8 p.m. sharp.
 Don't miss out on this opportunity!
 Like and Follow the Codechef-VIT page for more information.
 #vitvellore #codechefvit #technology #techevents
+
+![a1](https://user-images.githubusercontent.com/30529572/85806429-870f3e80-b73e-11ea-8c12-925bc5a737db.png)
+
+![a2](https://user-images.githubusercontent.com/30529572/85806434-88d90200-b73e-11ea-919c-5c792e5c83cd.png)
+
+![a3](https://user-images.githubusercontent.com/30529572/85806435-89719880-b73e-11ea-8655-2235bb41011b.png)
+
+![a4](https://user-images.githubusercontent.com/30529572/85806439-8aa2c580-b73e-11ea-8c87-8bb202bbac95.png)
+
