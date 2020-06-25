@@ -1,14 +1,14 @@
 ---
-title: Talks
+title: Posts
 sections:
-  - section_id: talks
+  - section_id: intro
     component: talks.html
     type: talks
     title: Talks
-    content: View my talks, webinars and online video content
-layout: talks
+    content: Some of my talks, webinars and online video content
+layout: home
 menu:
   main:
     weight: 1
-    name: Talks
+    name: Home
 ---
