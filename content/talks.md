@@ -6,7 +6,7 @@ sections:
     type: intro
     title: Talks
     content: Backend Developer and DevOps SysAdmin
-layout: home
+layout: talks
 menu:
   main:
     weight: 1
