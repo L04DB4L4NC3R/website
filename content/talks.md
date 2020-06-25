@@ -5,7 +5,7 @@ sections:
     component: talks.html
     type: intro
     title: Talks
-    content: Backend Developer and DevOps SysAdmin
+    content: View my talks, webinars and online video content
 layout: talks
 menu:
   main:
