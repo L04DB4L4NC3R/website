@@ -14,3 +14,6 @@ layout: post
 
 We at DSC VIT aim to make education accessible to everyone and we take a step forward in this journey, we are introducing our first course on Udemy - "GetGoing: Introduction to Golang" by Angad Sharma.
 Go lang is often termed the server language of the future. If you have had that thought of trying something new this summer, you won't get a better opportunity than this! Our GoLang expert @angad.sharma has carefully handcrafted a webinar just for you! See you on 8th June!
+
+
+[View the video](https://www.youtube.com/watch?v=-ukJKwqo2Q4)

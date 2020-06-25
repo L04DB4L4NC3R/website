@@ -17,3 +17,6 @@ With the tough competition in this race to success, the entrance of COVID-19 has
 pandemic. Nasscom has said that, “Survival of Indian startup ecosystem is at stake due to the crisis.” With all this confusion and debacle, we have some founders of rapidly growing startups and how they’re coping up with this situation.
 
 This webinar discusses the pandemic and post pandemic world and how these founders have taken this situation to their advantage with thought provoking and mind enlightening ideas.
+
+
+[View the video](https://www.youtube.com/watch?v=HkVJX69Bcm0)

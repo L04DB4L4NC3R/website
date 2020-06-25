@@ -12,3 +12,5 @@ layout: post
 ---
 
 Global Developers' Summit was an online conference organized by C4 Projects during the lockdown period of 2020. It had a panel of more than 25 different speakers talking about topics like deep learning, startup culture and cloud technologies. Enter the Denoland is a webinar which explores the new and popular runtime for typescript and javascript in a code-along format.
+
+[View the video](https://www.youtube.com/watch?v=j7mrV40z-Y0)

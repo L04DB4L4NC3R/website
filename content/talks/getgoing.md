@@ -13,3 +13,6 @@ layout: post
 ---
 
 We at DSC VIT aim to make education accessible to everyone and we take a step forward in this journey, we are introducing our first course on Udemy - "GetGoing: Introduction to Golang" by Angad Sharma.
+
+
+[View the video](https://udemy.com/course/getgoing)
