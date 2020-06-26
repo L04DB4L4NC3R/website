@@ -1,0 +1,154 @@
+<!doctype html>
+<html>
+    <head>    
+        <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="google" content="notranslate" />
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i%7CPT+Serif:400,700" rel="stylesheet">
+        <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "assets/css/main.css" . | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10)).Permalink }}">
+        {{ if eq .Params.layout "post" }} 
+        {{ if .Params.canonical_url }}
+        <link rel="canonical" href="{{ .Params.canonical_url }}"/>
+        {{ end }}
+        {{ end }}
+        
+    </head>
+    <body>
+        
+        <div id="page" class="site layout-{{ .Site.Params.layout_style }} palette-{{ .Site.Params.palette }}">
+        
+            {{ partial "header.html" . }}
+        
+            <div id="content" class="site-content">
+              <main id="main" class="site-main inner">
+        
+		<h3> I am Angad Sharma </h3>
+		<p> Developer | Course Instructor | Blogger | Community DevRel </p>
+
+
+		<img src="https://user-images.githubusercontent.com/30529572/85806429-870f3e80-b73e-11ea-8c12-925bc5a737db.png" />
+
+		<br> 
+		<br> 
+		<br> 
+
+		<p>
+
+I have previously worked at Atlan as a Backend Developer intern in Golang, Cloudify Technologies as Backend Developer intern in node.js, FindMind Analytics as DevOps intern, and GryNow as Backend intern in node.js. Published courses on Udemy and Winuall.
+
+Tech Lead at CodeChef-VIT chapter, Tech Core Committee member at DSC-VIT powered by Google Developers, Campus Ambassador at Hackerearth and RCPL, Core Committee Member at Facebook Developer Circles Vellore , currently in love with Golang and Domain Driven Design.
+
+<br>
+<br>
+
+Here are some things I am good at:
+
+<ul>
+	<li> Backend development and DevOps </li>
+	<li> Leading Communities </li>
+	<li> Hosting events, hackathons and meetups </li>
+	<li> Writing Technical (and non technical) Blogs </li>
+	<li> Talking....on stage, on camera, everywhere. </li>
+	<li> GNU/Linux..building, tweaking, and configuring </li>
+	<li> Contributing to open source </li>
+</ul>
+
+		</p>
+
+		<br>
+
+		<a href="https://github.com/L04DB4L4NC3R"><img width=60% src="https://user-images.githubusercontent.com/30529572/85875867-6c7fa880-b7c4-11ea-900e-8f4844a0ce36.png" alt="L04DB4L4NC3R" /> </a>
+
+		<br>
+		<br>
+		<br>
+
+		<h3> Community Work </h3>
+		Some of the fantastic communities I have been a part of and my meaningful contributions
+
+		<h4> Developer Student Clubs </h4>
+
+		<a href="https://dscvit.com"> View the Website </a>
+
+		<br>
+
+		I have been connected with Developer Student Clubs, Powered by Google Developers, since 2017. Ever since they were called Google Developer Groups. As a <b> Senior member of Developer Student Clubs, VIT </b> I contributed on more than 20 projects and 40+ events, and now work as a mentor for the same. My responsibilities include ensuring meetups, taking events and workshops free of cost and reporting them to Google. We have built a community around us and helped the people around us by these key projects:
+
+		
+<ul>
+	<li> We made an application, Poll-Police, which was used by the police force of Vellore during 
+	the elections of 2019 in order to monitor polling security vehicles. I worked as a backend 
+	developer for the application made</li>
+	<li> We collaborated with Hope-House NGO, and the CMC hospital in Vellore in order to make an
+	app for tackling mental issues in teenagers by connecting them with professionals. I worked in the DevOps side of this application as well as mentored the creation and functioning of the service.</li>
+	<br>
+	<br>
+
+	<img width=70% src="https://user-images.githubusercontent.com/30529572/85879495-00a03e80-b7ca-11ea-8354-e5b35a92432c.png" alt="womentechies" />
+
+	<br>
+	<br>
+
+	<li>We hosted WomenTechies, which is a 24 hour hackathon for women empowerment, with the criteria
+	of 50% participants being women. We hosted this event 2 years in a row, collaborating with the 
+	WomenTechmakers community in 2018 and standalone hackathon in 2019. I was responsible for creating an application, <a href="https://github.com/GDGVIT/Project-Hades"> Project Hades </a>, which ensured on-site event management of about 2,000 participants in the year of 2018 and 2019</li>
+
+	<li>We hosted DevTalks and DevFest in 2018. The former was a seminar discussion with a panel of speakers from all over India, including companies like Google; and the latter being a 36 hour hackathon with over 100K prize pool and over 2000 participants aggregated. We again hosted DevJams in 2019, as our flagship event with the same prize pool and the number of participants in 2019</li>
+
+	<li>We recieved ISO certification on our work on the annual international event, Riviera, organized by Vellore Institute of Technology, Vellore, for our outstanding work in developing both their application and their website.</li>
+	<li>I contributed for the fruition of around 40+ projects built by the DSC-VIT community in the late 2019 and 2020. Our team did some amazing work <a href="https://github.com/GDGVIT"> in creating practical open source projects for the community </a> </li>
+	<li>We are currently working with the Police office of Ranipet in Tamil Nadu in order to create
+	their internal digital supply chain for handling complaints and petitions. I am contributing as a
+	project manager as well as DevOps guy for the same. </li>
+</ul>
+
+<br>
+<br>
+		<h4>CodeChef Community</h4>
+
+		<a href="https://codechefvit.com"> View the Website </a>
+
+		<br>
+
+
+		I help build communities and take sessions to make sure that education is accessible to all. During my tenure as the <b> Technical Vice President of CodeChef-VIT </b> I made strides to uplift the community in both technical as well as non technical aspects. We did more than 20+ workshops and events and even more projects. I contributed to brainstorming, managing, and maintaining the community projects in order to ensure learning both within the community as well as around the community, and helped it expand. From 3 members in the technical team, to over 40 people working in the technical department of CodeChef-VIT, I ensured the <a href="https://github.com/CodeChefVIT/"> project boost that the community needed, going from just 12 projects to over 140+ projects on GitHub till date</a>
+
+		<br>
+		<br>
+
+		<img width=70% src="https://user-images.githubusercontent.com/30529572/85868372-b31bd580-b7b9-11ea-895e-57af32a57df1.png" alt="codechefvit" />
+
+		<br>
+		<br>
+
+		I also helped conduct all of CodeChef-VIT events during the year of 2018-2019 and early 2020, including some of the more popular events like:
+
+<ul>
+	<li>DevSoc, our annual mega-hackathon, with over 1000 participants and 80K in prize money</li>
+	<li>404 not found, which was our mid-semester hackathon</li>
+	<li>I spoke at two of our sessions, namely Blockchain fundamentals and Data analytics using machine learning</li>
+	<li>I was also a speaker at insight, which was an extremely popular 3 hour event, attended by over 300 people. This aimed at teaching young budding minds about the various technical domains out there</li>
+	<li> I took two webinars, one explaining the basics of Git and Github, and another explaining concepts like jquery and ajax. These webinars were attended by the core committee members of our community as well as all interested participants. Head over to the talks section for more information</li>
+</ul>
+
+		<br>
+		<br>
+
+
+
+              </main><!-- .site-main -->
+            </div><!-- .site-content -->
+        
+            {{ if .Site.Data.subscribe.enabled }}
+              {{ partial "subscribe.html" . }}
+            {{ end }}
+        
+            {{ partial "footer.html" . }}
+        
+          </div><!-- .site -->
+        <!-- Scripts -->
+        <script src="{{ "assets/js/plugins.js" | relURL }}"></script>
+        <script src="{{ "assets/js/main.js" | relURL }}"></script>
+    </body> 
+</html>
