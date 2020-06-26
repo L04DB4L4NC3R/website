@@ -10,7 +10,6 @@ layout: post
 ---
 
 
-
 Google cloud platform is one necessity that earns a developer much more productivity to their ideas. Isn't that a great end to a series of learning and hands-on sessions?
 
 We wrapped up our Personal Incubator series on a high note with a jam-packed session on Google Cloud Platform. We talked about the four main services offered by GCP namely, Compute, Storage, Big Data and Machine Learning. The need of cloud services was touched upon, so were GCP Shell and SSH, and ready to deploy GCP APIs.
@@ -18,3 +17,5 @@ We wrapped up our Personal Incubator series on a high note with a jam-packed ses
 Join us on 27th March in SJT 508 from 11AM - 1PM to explore unknown facts about the Google cloud.
 
 ![Google Cloud Sessions](https://user-images.githubusercontent.com/30529572/85802261-1f53f600-b734-11ea-918d-77cc79150ab3.png)
+
+I took a session of the Google Cloud Platform, having being certified recently, and shared my insight towards the best GCP services. This 2 hour session was conducted under the Personal Incubator series by Developer Student Clubs VIT and had about 60 students and eager minds engaging on the topic. 
