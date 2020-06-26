@@ -12,6 +12,8 @@ layout: post
 Have you ever wondered how bitcoins worked? Or have you ever thought about how virtual assets are kept safe? Blockchains, which is the reason for these, could eventually be more important on the internet and is growing exponentially as you read this.
 Grab your chance to be ahead of the curve at our 'Blockchain Fundamentals' workshop and become instantly knowledged!
 
+![blockchain selfie](https://user-images.githubusercontent.com/30529572/85868372-b31bd580-b7b9-11ea-895e-57af32a57df1.png)
+
 This was my first talk in my life as an udergrad computer science student. I was a member of CodeChef-VIT and was a second year student. This session was attended by 250+ people who were highly interested in learning about blockchain. Some of the concepts I covered included the following:
 
 * Hashing
@@ -20,3 +22,5 @@ This was my first talk in my life as an udergrad computer science student. I was
 * When to use and when not to use blockchain
 
 The talk was concluded by an ideathon where attendees were asked to come up with a solution to some of the common problems in the day to day life and try solving them using blockchain. It was met with a lot of enthusiasm.
+
+[View the ideathon snippet](https://mega.nz/file/iVMkWaiI#T-YWct8FTPfC_SCLaTSEG_zZV8Mjb8z--LUZGDd7oqg)
