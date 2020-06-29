@@ -1,5 +1,15 @@
 {{ define "content" }}
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171173677-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-171173677-1');
+</script>
+
 <article class="post page post-full">
   <header class="post-header">
     <h1 class="post-title">{{ .Params.title }}</h1>
