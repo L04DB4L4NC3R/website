@@ -5,7 +5,7 @@ excerpt: >-
   Introduction   Some time ago, I was writing my resume. People suggested
   writing it in LaTeX....
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--Mk6Wc8xf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--SkBVlTSu--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/cgl903ugf8afzvixj6t1.png
+  https://res.cloudinary.com/practicaldev/image/fetch/s--SkBVlTSu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/cgl903ugf8afzvixj6t1.png
 comments_count: 0
 positive_reactions_count: 7
 tags:

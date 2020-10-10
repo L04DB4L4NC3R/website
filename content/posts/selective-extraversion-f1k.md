@@ -5,7 +5,7 @@ excerpt: >-
   I went on as an observer, not a participant, for I do not think I ever spoke.
   I wanted to understand...
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--FRGmibDF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--tPEMoBSp--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/2i8baq3tyc0r5h8l4p3j.jpeg
+  https://res.cloudinary.com/practicaldev/image/fetch/s--tPEMoBSp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/2i8baq3tyc0r5h8l4p3j.jpeg
 comments_count: 2
 positive_reactions_count: 6
 tags:

@@ -5,7 +5,7 @@ excerpt: >-
   The What   A month ago I was working on a script for sending bulk emails to
   the participants...
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--WLTlY9F4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--5AnLp9lv--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/r7lfku98sagh61j9vfl5.png
+  https://res.cloudinary.com/practicaldev/image/fetch/s--5AnLp9lv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/r7lfku98sagh61j9vfl5.png
 comments_count: 2
 positive_reactions_count: 11
 tags:

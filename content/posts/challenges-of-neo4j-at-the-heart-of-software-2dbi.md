@@ -3,7 +3,7 @@ title: Challenges of neo4j at the heart of software
 date: '2019-04-30T10:22:04.706Z'
 excerpt: Introduction
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--qv7TCg_p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--CcQusa-a--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/jrqayi1heg6annf2g6u7.png
+  https://res.cloudinary.com/practicaldev/image/fetch/s--CcQusa-a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/jrqayi1heg6annf2g6u7.png
 comments_count: 0
 positive_reactions_count: 6
 tags:

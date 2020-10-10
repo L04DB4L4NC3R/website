@@ -3,7 +3,7 @@ title: Process synchronization monitors in go
 date: '2019-05-03T05:59:04.681Z'
 excerpt: Introduction
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--ThXNNMzs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--tOXWpz4j--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/s7x5jswmrdfkx247686o.jpeg
+  https://res.cloudinary.com/practicaldev/image/fetch/s--tOXWpz4j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/s7x5jswmrdfkx247686o.jpeg
 comments_count: 0
 positive_reactions_count: 8
 tags:

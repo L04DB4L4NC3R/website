@@ -5,9 +5,9 @@ excerpt: >-
   How my search for the perfect text editor took me to SpaceVim   What compels
   people to migrate from t...
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--gL9igkTm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--IUeBqACF--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/xti5km3trvkfavi5r320.png
-comments_count: 1
-positive_reactions_count: 4
+  https://res.cloudinary.com/practicaldev/image/fetch/s--IUeBqACF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xti5km3trvkfavi5r320.png
+comments_count: 2
+positive_reactions_count: 6
 tags:
   - vim
   - techtalks

@@ -7,7 +7,7 @@ excerpt: >-
 thumb_img_path: >-
   https://res.cloudinary.com/practicaldev/image/fetch/s--UUtpMWNl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/od5ure9kbixnt95o7do7.jpg
 comments_count: 37
-positive_reactions_count: 460
+positive_reactions_count: 484
 tags:
   - linux
   - opensource
@@ -19,13 +19,13 @@ layout: post
 > Linux has definitely made a lot of sense even in a purely materialistic sense.
 > - Linus Torvalds
 
-In a world where existing software design practices led to monolithic mayhem, especially in the case of kernels and operating systems, the linux community came up with software designed like a castle built out of lego. 
+In a world where existing software design practices led to monolithic mayhem, especially in the case of kernels and operating systems, the Linux community came up with software designed like a castle built out of lego. 
 
-The best part of linux I love is a conjunction of its simple complexity and the complex simplicity in the form of customizablity. Everything about linux is modular and user centric. And how the cogs work together like a well oiled machine is what amazes me. 
+To me, the best part of Linux is its unique form of _simple complexity_ and _complex simplicity_ in the form of customizability. Everything about Linux is modular and user-centric. The cogs work together like a well-oiled machine. It never ceases to amazes me. 
 
-The linux desktop environment is one such pluggable GUI layer in a vast expanse of sedimentation. It feels like a system which truly cares about the freedom of its users. Like a hive mind with individuality. This is what has motivated me to do a series of "window manager hopping".
+The Linux desktop environment is one such pluggable GUI layer in a vast expanse of sedimentation. It feels like a system that truly cares about the freedom of its users. Like a hive mind with individuality. This is what has motivated me to do a series of "window manager hopping".
 
-A typical linux desktop is composed of the following moving parts:
+A typical Linux desktop is composed of the following moving parts:
 
 * [Display Manager](# display-manager)
 * [Window System](# window-system)

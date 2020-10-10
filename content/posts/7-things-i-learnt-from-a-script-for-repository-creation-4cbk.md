@@ -1,7 +1,9 @@
 ---
 title: 8 things I learnt from a script for repository creation
 date: '2020-01-23T16:00:45.766Z'
-excerpt: ''
+excerpt: >-
+  As a young boy I was always reluctant to do chores around the house. I just
+  felt that doing the same...
 thumb_img_path: >-
   https://res.cloudinary.com/practicaldev/image/fetch/s--MazfXGjF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sjpxueje7lwxngdcy1fm.png
 comments_count: 5

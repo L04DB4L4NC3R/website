@@ -7,7 +7,7 @@ excerpt: >-
 thumb_img_path: >-
   https://res.cloudinary.com/practicaldev/image/fetch/s--EfCczvE1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/drs28swxy41cwx34nn8g.png
 comments_count: 0
-positive_reactions_count: 4
+positive_reactions_count: 6
 tags:
   - tutorial
   - showdev

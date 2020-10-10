@@ -5,7 +5,7 @@ excerpt: >-
   Monsterwm is a dynamic tiling window manager forked from dminimalwm, which was
   inspired by dwm. It ha...
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--WnPA-ykm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--jVbh0DIS--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/58xuum6eiqvpto0h3bq4.png
+  https://res.cloudinary.com/practicaldev/image/fetch/s--jVbh0DIS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/58xuum6eiqvpto0h3bq4.png
 comments_count: 2
 positive_reactions_count: 28
 tags:

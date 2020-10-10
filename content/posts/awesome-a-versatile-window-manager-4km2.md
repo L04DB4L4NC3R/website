@@ -7,7 +7,7 @@ excerpt: >-
 thumb_img_path: >-
   https://res.cloudinary.com/practicaldev/image/fetch/s--ctma6Axi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/oghr6plxpkyqrhzlsbvi.png
 comments_count: 6
-positive_reactions_count: 36
+positive_reactions_count: 38
 tags:
   - linux
   - opensource

@@ -5,9 +5,9 @@ excerpt: >-
   I have faced loads of situations where there is a large block of text which
   needs a particular action...
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--kZUwx3Q6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--cmMLwSAq--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/si56jzdixtyswfxasm7e.png
+  https://res.cloudinary.com/practicaldev/image/fetch/s--cmMLwSAq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/si56jzdixtyswfxasm7e.png
 comments_count: 4
-positive_reactions_count: 5
+positive_reactions_count: 6
 tags:
   - vim
   - tutorial

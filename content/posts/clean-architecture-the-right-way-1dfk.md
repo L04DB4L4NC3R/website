@@ -5,7 +5,7 @@ excerpt: >-
   A practical guide to Clean Architecture, with a personal touch.  Just last
   Sunday, I was randomly bro...
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--K8y-87Er--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--Asc-PTnU--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ffsp4xeks4jxhbb0elk.png
+  https://res.cloudinary.com/practicaldev/image/fetch/s--Asc-PTnU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2ffsp4xeks4jxhbb0elk.png
 comments_count: 1
 positive_reactions_count: 19
 tags:

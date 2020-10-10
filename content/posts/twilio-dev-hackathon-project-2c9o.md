@@ -5,7 +5,7 @@ excerpt: >-
   Introduction   COVID-19 is a stressful time for people, who tend to panic. In
   such a case, I...
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--JNaGbj9U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--hZPwwEkC--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/xw0rkizoz8cbb8gur92w.png
+  https://res.cloudinary.com/practicaldev/image/fetch/s--hZPwwEkC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xw0rkizoz8cbb8gur92w.png
 comments_count: 0
 positive_reactions_count: 6
 tags:

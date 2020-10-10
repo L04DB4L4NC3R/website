@@ -3,7 +3,7 @@ title: Mutually exclusive terminals on the web
 date: '2019-04-30T11:15:58.382Z'
 excerpt: Introduction
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--SicnILi3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--U0qhZG1J--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/9kefez0l2gwvj993b42c.png
+  https://res.cloudinary.com/practicaldev/image/fetch/s--U0qhZG1J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/9kefez0l2gwvj993b42c.png
 comments_count: 0
 positive_reactions_count: 7
 tags:

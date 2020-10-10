@@ -5,7 +5,7 @@ excerpt: >-
   I was doing some digging and checking out varius RSS feeds and figured out
   that you can actually link...
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--PazI4ILU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--uOucmfPX--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/vq8d24e0onh1z3pwp564.png
+  https://res.cloudinary.com/practicaldev/image/fetch/s--uOucmfPX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/vq8d24e0onh1z3pwp564.png
 comments_count: 2
 positive_reactions_count: 4
 tags:

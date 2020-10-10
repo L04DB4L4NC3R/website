@@ -5,9 +5,9 @@ excerpt: >-
   How I started reading more than 100 articles a week!  Food for thought: How
   many times have you wishe...
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--F_fN2ids--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--kt78Oz-5--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/00zeywh6zdjm1a52ccdk.png
-comments_count: 1
-positive_reactions_count: 4
+  https://res.cloudinary.com/practicaldev/image/fetch/s--kt78Oz-5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/00zeywh6zdjm1a52ccdk.png
+comments_count: 3
+positive_reactions_count: 10
 tags:
   - productivity
 canonical_url: 'https://dev.to/l04db4l4nc3r/i-got-tired-of-being-un-informed-not-anymore-3aeg'

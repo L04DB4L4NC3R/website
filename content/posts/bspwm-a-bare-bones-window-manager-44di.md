@@ -6,8 +6,8 @@ excerpt: >-
   ensures plug and play a...
 thumb_img_path: >-
   https://res.cloudinary.com/practicaldev/image/fetch/s--37vmCPxp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h7od1930rb29uwvyz2dd.png
-comments_count: 8
-positive_reactions_count: 16
+comments_count: 12
+positive_reactions_count: 32
 tags:
   - linux
   - opensource

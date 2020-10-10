@@ -3,8 +3,8 @@ title: The Dispatcher
 date: '2019-05-05T10:24:07.618Z'
 excerpt: Introduction
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--NbBnP8fy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--FsEbuRyl--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://thepracticaldev.s3.amazonaws.com/i/8snhnbtdskfpg90wtlyi.jpg
-comments_count: 0
+  https://res.cloudinary.com/practicaldev/image/fetch/s--FsEbuRyl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/8snhnbtdskfpg90wtlyi.jpg
+comments_count: 1
 positive_reactions_count: 6
 tags:
   - os

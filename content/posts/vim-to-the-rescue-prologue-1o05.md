@@ -7,7 +7,7 @@ excerpt: >-
 thumb_img_path: >-
   https://res.cloudinary.com/practicaldev/image/fetch/s--UM2xKByt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1xwjr9bdfm16y7b3qx0v.png
 comments_count: 0
-positive_reactions_count: 25
+positive_reactions_count: 26
 tags:
   - vim
   - tutorial

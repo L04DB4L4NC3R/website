@@ -5,9 +5,9 @@ excerpt: >-
   Introduction   How many times have you ran a command on your terminal and copy
   pasted its ou...
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s--r95zqGcz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--3xqVYQUI--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/kj1tcgo9jn3mxv72nx0m.png
+  https://res.cloudinary.com/practicaldev/image/fetch/s--3xqVYQUI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/kj1tcgo9jn3mxv72nx0m.png
 comments_count: 1
-positive_reactions_count: 5
+positive_reactions_count: 6
 tags:
   - vim
   - todayilearned

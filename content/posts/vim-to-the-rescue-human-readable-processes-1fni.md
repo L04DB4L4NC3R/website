@@ -5,7 +5,7 @@ excerpt: >-
   The What   Have you ever heard of the top command in linux. Yes, the one that
   lists out curr...
 thumb_img_path: >-
-  https://res.cloudinary.com/practicaldev/image/fetch/s---bYERLKF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s--cIiiEgLb--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/eg1skmhesxskj7dr4kqn.png
+  https://res.cloudinary.com/practicaldev/image/fetch/s--cIiiEgLb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/eg1skmhesxskj7dr4kqn.png
 comments_count: 2
 positive_reactions_count: 5
 tags:
