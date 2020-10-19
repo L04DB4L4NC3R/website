@@ -1,7 +1,7 @@
 ---
-title: Arch Conf 2020 | The Arch Linux Conference
+title: Custom Kernels on Edge Devices | Arch Conf 2020
 date: '2020-10-11T16:18:00.766Z'
-excerpt: ''
+excerpt: 'The annual Arch Linux Conference'
 thumb_img_path: >-
   https://user-images.githubusercontent.com/30529572/96234865-8a4a6680-0f89-11eb-8e7c-23b18f4efc2a.png
 tags:
