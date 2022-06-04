@@ -2,7 +2,7 @@ import requests
 import sys
 
 print("fetching post list...")
-metadata = "---\ntitle: '{0}'\ndate: '{1}'\nthumb_img_path: '{2}'\ncanonical_url: '{3}'\nexcerpt: {4}\nlayout: post\n---\n\n"
+metadata = "---\ntitle: '{0}'\ndate: '{1}'\nthumb_img_path: '{2}'\ncanonical_url: '{3}'\nexcerpt: '{4}'\nlayout: post\n---\n\n"
 
 data = requests.get("https://dev.to/api/articles?username=l04db4l4nc3r&per_page=1000").json()
 print("done")
