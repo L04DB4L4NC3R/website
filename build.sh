@@ -2,7 +2,5 @@
 
 set -euo pipefail
 
-pwd
-ls 
-python get_posts.py
+python get_posts.py `pwd/content/posts`
 hugo

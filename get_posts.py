@@ -1,4 +1,5 @@
 import requests
+import sys
 
 print("fetching post list...")
 metadata = "---\ntitle: '{0}'\ndata: '{1}'\nthumb_img_path: >-\n  '{1}'\ncanonical_url: '{3}'\nexcerpt: >-\n {4}\nlayout: post\n---\n\n"
@@ -9,7 +10,7 @@ print("done")
 print("fetching posts....")
 
 for i in data:
-    with open("./content/posts/{}.md".format(i['title']), "w") as file:
+    with open("{0}/{1}.md".format(sys.argv[1], i['title']), "w") as file:
         file.write(
             metadata.format(
                 i['title'],
