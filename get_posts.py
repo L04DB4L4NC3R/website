@@ -21,9 +21,13 @@ for i in data:
                 i['description']
             )
         )
-        file.write(
-            requests.get(
-                "https://dev.to/api/articles/{0}".format(i['id'])).json()['body_markdown']
-        )
+        try:
+            file.write(
+                requests.get(
+                    "https://dev.to/api/articles/{0}".format(i['id'])).json()['body_markdown']
+            )
+        except Exception as e:
+            print("error fetching article id: {0} from dev.to API with error: {1}".format(i["id"], e))
+        
 
 print("done")
