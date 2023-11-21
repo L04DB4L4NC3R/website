@@ -6,6 +6,7 @@ metadata = "---\ntitle: '{0}'\ndate: '{1}'\nthumb_img_path: '{2}'\ncanonical_url
 
 data = requests.get("https://dev.to/api/articles?username=l04db4l4nc3r&per_page=1000").json()
 print("done")
+print(data[0])
 
 print("fetching posts....")
 
